@@ -1,0 +1,3 @@
+# Removes arrays provided in the second array
+p [1,2,3,4,5] - [2, 3] # [1, 4, 5]
+
